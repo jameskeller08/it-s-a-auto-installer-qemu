@@ -28,4 +28,4 @@ You will need 20 gigs Plus in size to install windowsxp x86
 
 You will need 20 gigs Plus in size to install windows98 x86
 
-And for all of them to be installed at once you would need 190gb
+And for all of them to be installed at once you would need 190gb also the Windows 7 iso download is very slow so I will be trying to update in the next release with a better one
