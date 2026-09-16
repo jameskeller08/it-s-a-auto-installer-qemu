@@ -14,6 +14,7 @@ Here is the Discord server if you guys want to join and help out
 https://discord.gg/SeHN3JeseA
 
 Pre-installation:
+before we start worrying about space we need to worry about how much ram you have. you need at least I would say 8GB of RAM to install some of these
 
 You will need 50 gigs Plus in size to install Windows 10 21H1
 
