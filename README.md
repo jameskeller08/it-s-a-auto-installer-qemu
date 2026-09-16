@@ -2,3 +2,8 @@
 it's a auto installer qemu hopefully there will be a Windows build soon I use AI to create The Code by the way
 
 By the way this Auto installs Windows 21H1 in a VM which is not full performance but it has at least full performance that a VM can get without doing a whole bunch of extra stuff
+
+Plans for the future:
+1. I want there to be a UI app
+2. I also want there to be quick downloads links to the downloads when it goes to download something
+3. I want there to be a Windows and Mac OS version but I don't have a Mac that's new enough that the exact moment and the windows build is also a very buggy at the moment and very hard to test
