@@ -6,4 +6,4 @@ By the way this Auto installs Windows 21H1 in a VM which is not full performance
 Plans for the future:
 1. I want there to be a UI app
 2. I also want there to be quick downloads links to the downloads when it goes to download something
-3. I want there to be a Windows and Mac OS version but I don't have a Mac that's new enough that the exact moment and the windows build is also a very buggy at the moment and very hard to test
+3. I want there to be a Windows and Mac OS version but I don't have a Mac that's new enough that the exact moment and the windows build is also a very buggy at the moment and very hard to test cuz my daily driver is Linux and the only access to Windows I have is through a VM or borrowing my mom's old laptop
