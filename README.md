@@ -13,5 +13,5 @@ Here is the Discord server if you guys want to join and help out
 
 https://discord.gg/SeHN3JeseA
 
-Pre-installation
+Pre-installation:
 You will need 50 gigs Plus in size to install Windows 21H1
