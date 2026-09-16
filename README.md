@@ -16,3 +16,7 @@ https://discord.gg/SeHN3JeseA
 Pre-installation:
 
 You will need 50 gigs Plus in size to install Windows 10 21H1
+You will need 50 gigs Plus in size to install ubuntu-26.04 
+You will need 50 gigs Plus in size to install windows7 
+You will need 50 gigs Plus in size to install windowsxp x86
+You will need 50 gigs Plus in size to install windows98 x86
