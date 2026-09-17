@@ -18,6 +18,10 @@ Pre-installation:
 Before we start worrying about space we need to worry about how much ram you have. 
 I apologize I had to update it to 16 gigs of RAM for the minimum as the default because of how intense the vm"s are for Ram
 
+This version is the newest version for 8 gigs and below of ram
+
+
+
 You will need 50 gigs Plus in size to install Windows 10 21H1 x64
 
 You will need 50 gigs Plus in size to install ubuntu-26.04 x64
