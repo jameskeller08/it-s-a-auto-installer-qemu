@@ -19,6 +19,7 @@ Before we start worrying about space we need to worry about how much ram you hav
 I apologize I had to update it to 16 gigs of RAM for the minimum as the default because of how intense the vm"s are for Ram
 
 This version is the newest version for 8 gigs and below of ram
+
 https://github.com/jameskeller08/it-s-a-auto-installer-qemu/releases/tag/v8
 
 
