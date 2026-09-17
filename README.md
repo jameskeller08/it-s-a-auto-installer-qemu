@@ -18,14 +18,16 @@ Pre-installation:
 Before we start worrying about space we need to worry about how much ram you have. 
 you need at least I would say 8GB of RAM to install some of these
 
-You will need 50 gigs Plus in size to install Windows 10 21H1
+You will need 50 gigs Plus in size to install Windows 10 21H1 x64
 
-You will need 50 gigs Plus in size to install ubuntu-26.04 
+You will need 50 gigs Plus in size to install ubuntu-26.04 x64
 
-You will need 50 gigs Plus in size to install windows7 
+You will need 50 gigs Plus in size to install windows 7 x64
 
 You will need 20 gigs Plus in size to install windowsxp x86
 
 You will need 20 gigs Plus in size to install windows98 x86
+
+You will need 50 gigs Plus in size to install linuxmint x64
 
 And for all of them to be installed at once you would need 190gb also the Windows 7 iso download is very slow so I will be trying to update in the next release with a better one
