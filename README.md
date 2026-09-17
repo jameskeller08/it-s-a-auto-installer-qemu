@@ -16,7 +16,7 @@ https://discord.gg/SeHN3JeseA
 Pre-installation:
 
 Before we start worrying about space we need to worry about how much ram you have. 
-you need at least I would say 8GB of RAM to install some of these
+I apologize I had to update it to 16 gigs of RAM for the minimum as the default because of how intense the vm"s are for Ram
 
 You will need 50 gigs Plus in size to install Windows 10 21H1 x64
 
